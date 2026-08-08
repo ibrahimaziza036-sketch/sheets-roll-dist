@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7.0",
-  "notes": "Fresh new look — rounded cards, cleaner colours and status pills — plus a faster, smoother roll list.",
+  "versionCode": 19,
+  "versionName": "2.8.0",
+  "notes": "Central sync: the app can now push roll data to your LAN server (Server settings + Sync now). Server package for IT is included.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
