@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "2.6.1",
-  "notes": "Test update: the sign-in screen now shows the app version. This proves auto-update is working.",
+  "versionCode": 17,
+  "versionName": "2.6.2",
+  "notes": "New app icon. (Even the icon updates automatically over the air.)",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
