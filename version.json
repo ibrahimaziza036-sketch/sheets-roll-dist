@@ -1,0 +1,6 @@
+{
+  "versionCode": 15,
+  "versionName": "2.6.0",
+  "notes": "Login and user roles, offline mode, stock take, SAP sheet/machine dropdowns, tag rewrite with sheet history, and automatic updates.",
+  "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
+}
