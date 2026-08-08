@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "2.6.2",
-  "notes": "New app icon. (Even the icon updates automatically over the air.)",
+  "versionCode": 18,
+  "versionName": "2.7.0",
+  "notes": "Fresh new look — rounded cards, cleaner colours and status pills — plus a faster, smoother roll list.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
