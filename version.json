@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8.0",
-  "notes": "Central sync: the app can now push roll data to your LAN server (Server settings + Sync now). Server package for IT is included.",
+  "versionCode": 20,
+  "versionName": "2.8.1",
+  "notes": "USB Sync Station support: dock the CM900 by cable and data delivers to the central database automatically (no WiFi/internet needed).",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
