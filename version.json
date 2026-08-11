@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.8.1",
-  "notes": "USB Sync Station support: dock the CM900 by cable and data delivers to the central database automatically (no WiFi/internet needed).",
+  "versionCode": 21,
+  "versionName": "2.9.0",
+  "notes": "New: in-app guided tour with coach marks (spotlight + What/How/Why tips), a Help center, and a 'Get started' checklist. Menu -> Guided tour or Help; details screen has Help/tour too.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
