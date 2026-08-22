@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "2.13.0",
-  "notes": "When issuing a roll, the camera now opens to take a photo of the person taking it. The photo is saved with the issue record and shown in the movement trail (tap the thumbnail to see it full-size, with roll code, machine and issuer). Allow the camera permission when asked.",
+  "versionCode": 26,
+  "versionName": "2.14.0",
+  "notes": "Issue photos now travel to the central server with the USB sync, so they show on the central dashboard (Usage - Recent movements) and act as an off-device backup. No change to how you issue rolls; just keep syncing over USB as before.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
