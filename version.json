@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "2.9.0",
-  "notes": "New: in-app guided tour with coach marks (spotlight + What/How/Why tips), a Help center, and a 'Get started' checklist. Menu -> Guided tour or Help; details screen has Help/tour too.",
+  "versionCode": 22,
+  "versionName": "2.10.0",
+  "notes": "Separation of duties: the person who registers a roll can no longer issue it. New roles - Production (register only) and Store (issue only), plus Supervisor (both) and Admin. Admin can set each user's role under Users.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
