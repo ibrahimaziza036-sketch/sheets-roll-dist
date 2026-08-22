@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "2.14.0",
-  "notes": "Issue photos now travel to the central server with the USB sync, so they show on the central dashboard (Usage - Recent movements) and act as an off-device backup. No change to how you issue rolls; just keep syncing over USB as before.",
+  "versionCode": 27,
+  "versionName": "2.15.0",
+  "notes": "Home now shows the phone battery % and the reader battery. When the phone is fully charged it rings a loud alarm until you unplug the charger. The reader Bluetooth also reconnects automatically and no longer kicks you out on a brief drop. Please allow the notification permission when asked.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
