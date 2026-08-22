@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "2.12.0",
-  "notes": "Rolls can now be issued to a Crush Machine (for scrap/recycling), in addition to thermoforming and printing machines. Pick it from the machine list in the Issue dialog.",
+  "versionCode": 25,
+  "versionName": "2.13.0",
+  "notes": "When issuing a roll, the camera now opens to take a photo of the person taking it. The photo is saved with the issue record and shown in the movement trail (tap the thumbnail to see it full-size, with roll code, machine and issuer). Allow the camera permission when asked.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
