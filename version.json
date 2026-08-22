@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "2.10.0",
-  "notes": "Separation of duties: the person who registers a roll can no longer issue it. New roles - Production (register only) and Store (issue only), plus Supervisor (both) and Admin. Admin can set each user's role under Users.",
+  "versionCode": 23,
+  "versionName": "2.11.0",
+  "notes": "New sheet on a reel is now blocked until the current sheet is finished (remaining weight 0). Sheet selection is a searchable dialog - search by name, SAP code or thickness (e.g. type 1.5) and tap to pick.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
