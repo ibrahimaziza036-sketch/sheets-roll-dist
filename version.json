@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "2.16.0",
-  "notes": "New (Admin only): menu → 'Clear all roll data' wipes all demo/test rolls, their trail, history and photos from the device so you can start clean for real use. Users and logins are kept. Asks twice before erasing.",
+  "versionCode": 29,
+  "versionName": "2.17.0",
+  "notes": "Fix: Admin can now issue a roll even if the admin registered it (admin is the top authority, useful for testing). The 'maker cannot issue' rule still applies to Supervisor, and Production/Store stay separate by role.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
