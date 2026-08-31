@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "2.15.0",
-  "notes": "Home now shows the phone battery % and the reader battery. When the phone is fully charged it rings a loud alarm until you unplug the charger. The reader Bluetooth also reconnects automatically and no longer kicks you out on a brief drop. Please allow the notification permission when asked.",
+  "versionCode": 28,
+  "versionName": "2.16.0",
+  "notes": "New (Admin only): menu → 'Clear all roll data' wipes all demo/test rolls, their trail, history and photos from the device so you can start clean for real use. Users and logins are kept. Asks twice before erasing.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
