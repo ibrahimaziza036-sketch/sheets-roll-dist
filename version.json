@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "2.20.0",
-  "notes": "Cloud backup now also uploads the issue photos to Supabase (Storage bucket 'roll-photos', created automatically). Both the data and the pictures are backed up, so you can pull everything to a PC.",
+  "versionCode": 33,
+  "versionName": "2.21.0",
+  "notes": "Issue photos are now made small automatically (about 150-250 KB each) while staying clear enough to recognise the person. Many more photos fit the free Supabase storage, and backups are faster.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
