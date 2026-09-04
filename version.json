@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "2.19.0",
-  "notes": "New: Cloud backup to Supabase (menu → Cloud backup) so you can pull the data to a PC. Also: a fully-used reel is now easy to reuse — Return has a one-tap 'Fully used (0 kg)' and an empty reel shows 'put a new sheet on it'.",
+  "versionCode": 32,
+  "versionName": "2.20.0",
+  "notes": "Cloud backup now also uploads the issue photos to Supabase (Storage bucket 'roll-photos', created automatically). Both the data and the pictures are backed up, so you can pull everything to a PC.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
