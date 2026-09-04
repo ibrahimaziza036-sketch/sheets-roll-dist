@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "2.21.0",
-  "notes": "Issue photos are now made small automatically (about 150-250 KB each) while staying clear enough to recognise the person. Many more photos fit the free Supabase storage, and backups are faster.",
+  "versionCode": 34,
+  "versionName": "2.22.0",
+  "notes": "Cloud backup now happens right after you register, issue or return a roll (not only on the Home screen), so data and photos reach Supabase almost immediately. Nothing is deleted from the cloud — it only adds/updates.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
