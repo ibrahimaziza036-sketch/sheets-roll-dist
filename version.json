@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "2.22.0",
-  "notes": "Cloud backup now happens right after you register, issue or return a roll (not only on the Home screen), so data and photos reach Supabase almost immediately. Nothing is deleted from the cloud — it only adds/updates.",
+  "versionCode": 35,
+  "versionName": "2.23.0",
+  "notes": "Cloud backup is ready to connect. Open menu → Cloud backup (Supabase), paste the Project URL and key you were given, then Save + back up now. Data and photos will upload to your Supabase project.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
