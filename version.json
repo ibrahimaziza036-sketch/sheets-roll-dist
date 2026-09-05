@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "2.23.0",
-  "notes": "Cloud backup is ready to connect. Open menu → Cloud backup (Supabase), paste the Project URL and key you were given, then Save + back up now. Data and photos will upload to your Supabase project.",
+  "versionCode": 36,
+  "versionName": "2.24.0",
+  "notes": "Scan now opens a live list of all nearby tags — the closest roll shows at the top and farther ones below, with a signal bar. Tap a roll to open it. No more 'more than one tag' error.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
