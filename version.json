@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "2.25.0",
-  "notes": "New: a 'Send to crush (waste)' button on a roll. If a sheet is spoiled, one tap sends the whole sheet from store straight to the crusher and marks it finished — no issue/return needed. Crush is now separate from the forming/printing issue list, and the dashboard tracks crushed waste on its own.",
+  "versionCode": 38,
+  "versionName": "2.26.0",
+  "notes": "Nearby scan improved: each nearby roll now shows its weight, and the list ranks by the current (live) signal so the closest roll stays on top and stale/gone tags drop off. Fixes wrong tags and wrong order.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
