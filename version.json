@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "2.31.0",
-  "notes": "Scan no longer says 'keep only one'. It reads for about 1.5 seconds: if one tag is found it opens that roll; if several are near, a list opens showing each roll (code, sheet, weight, status) so you can tap the one you want.",
+  "versionCode": 44,
+  "versionName": "2.32.0",
+  "notes": "Fix: Scan now works every time. Earlier the second scan said 'no tag found' — that is fixed. Scan a group of tags and the pick-list opens each time.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
