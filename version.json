@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "2.30.0",
-  "notes": "Scan is back to the simple way: hold one tag near the reader and it opens that roll (or asks to register a new tag). The nearby-list, ranking, range slider and diagnostics have been removed. Everything else (crush/waste, cloud backup, dashboard) is unchanged.",
+  "versionCode": 43,
+  "versionName": "2.31.0",
+  "notes": "Scan no longer says 'keep only one'. It reads for about 1.5 seconds: if one tag is found it opens that roll; if several are near, a list opens showing each roll (code, sheet, weight, status) so you can tap the one you want.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
