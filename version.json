@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "2.32.0",
-  "notes": "Fix: Scan now works every time. Earlier the second scan said 'no tag found' — that is fixed. Scan a group of tags and the pick-list opens each time.",
+  "versionCode": 45,
+  "versionName": "2.33.0",
+  "notes": "Big quality update from a full audit: fixes for lost stock-take locations and sync data-loss, a scan crash, screens closing in the background, safer camera/issue flow, honest tag-write verify, separation of duties on crush, forced admin password change, and many smaller fixes. First admin login will now ask you to set a new password.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
