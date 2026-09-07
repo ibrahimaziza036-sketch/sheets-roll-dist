@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "2.26.0",
-  "notes": "Nearby scan improved: each nearby roll now shows its weight, and the list ranks by the current (live) signal so the closest roll stays on top and stale/gone tags drop off. Fixes wrong tags and wrong order.",
+  "versionCode": 39,
+  "versionName": "2.27.0",
+  "notes": "Nearby scan now ranks rolls by how actively each tag is being read (works the same on any reader), so the closest roll rises to the top. Tip: hold the reel about a hand's length from the reader — a tag touching the antenna can be missed.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
