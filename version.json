@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "2.28.0",
-  "notes": "Nearby scan now has a 'Reader range' slider. Slide it LOW so only the reel right in front is read (easiest way to find the closest one), or HIGH to read farther. It goes back to normal when you leave the screen.",
+  "versionCode": 41,
+  "versionName": "2.29.0",
+  "notes": "Diagnostic build for the nearby scan: each tag now shows read count and raw signal, and the header shows total reads. Please open Scan, hold the closest reel near the reader, and send a screenshot so the ranking can be tuned to your reader.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
