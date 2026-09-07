@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "2.29.0",
-  "notes": "Diagnostic build for the nearby scan: each tag now shows read count and raw signal, and the header shows total reads. Please open Scan, hold the closest reel near the reader, and send a screenshot so the ranking can be tuned to your reader.",
+  "versionCode": 42,
+  "versionName": "2.30.0",
+  "notes": "Scan is back to the simple way: hold one tag near the reader and it opens that roll (or asks to register a new tag). The nearby-list, ranking, range slider and diagnostics have been removed. Everything else (crush/waste, cloud backup, dashboard) is unchanged.",
   "apkUrl": "https://raw.githubusercontent.com/ibrahimaziza036-sketch/sheets-roll-dist/main/sheets-roll.apk"
 }
